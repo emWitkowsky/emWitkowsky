@@ -2,6 +2,10 @@
 
 ## Let me introduce myself 🌟
 
+## But first - why such irregular activity chart?
+
+Due to various reasons I also work on [![GitLab](https://img.shields.io/badge/:badgeContent?logo=gitlab)](https://gitlab.com/theApothecary) and [![GitLab - work](https://img.shields.io/badge/:badgeContent?logo=gitlab)](https://gitlab.com/emWitkowski) (yeah, I know, confusing... sorry about that)
+
 ## Education and work experience 🎓 💼
 Currently, I am a 1st year Computer Science Masters degree student at the University of Gdańsk. Besides regular classes, I'm a co-founder of the thriving academic club "Work In Progress", and the full-stack developer and coordinator of a growing initiative which already gathers over 30 students.
 
