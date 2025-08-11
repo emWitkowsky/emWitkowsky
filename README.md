@@ -3,7 +3,7 @@
 ## Let me introduce myself 🌟
 
 ## Education and work experience 🎓 💼
-I am a 2nd-year Practical Computer Science student at the University of Gdańsk. Besides regular classes, I'm a co-founder of the thriving academic club "Work In Progress", and the front-end coordinator of a growing university-wide initiative which already gathers over 30 students.
+Currently, I am a 1st year Computer Science Masters degree student at the University of Gdańsk. Besides regular classes, I'm a co-founder of the thriving academic club "Work In Progress", and the full-stack developer and coordinator of a growing initiative which already gathers over 30 students.
 
 When it comes to work experience, I have developed small apps like (https://pathfinder.ug.edu.pl/).
 
